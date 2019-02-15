@@ -1,0 +1,7 @@
+aws_access_key = ""
+aws_secret_key = ""
+aws_region = "us-west-1"
+#aws_profile = ""
+vpc_cidr = "10.0.0.0/16"
+pub_subnet_cidr = "10.0.1.0/24"
+pri_subnet_cidr = "10.0.2.0/24"
